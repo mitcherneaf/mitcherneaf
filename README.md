@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mitcherneaf
-- 👀 I’m interested in personal finance, investing, crypto, front end development.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on dao's or any crypto development team.
+- 👀 I’m interested in personal finance, investing, and crypto
+- 🌱 I’m currently learning Python
 - 📫 How to reach me mitcherneaf@gmail.com
 
 <!---
